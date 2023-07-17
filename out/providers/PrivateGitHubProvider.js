@@ -28,7 +28,7 @@ class PrivateGitHubProvider extends GitHubProvider_1.BaseGitHubProvider {
             // html_url must be always, but just to be sure
             throw builder_util_runtime_1.newError(`Cannot find ${channelFile} in the release ${releaseInfo.html_url || releaseInfo.name}`, "ERR_UPDATER_CHANNEL_FILE_NOT_FOUND");
         }
-        const url = new url_1.URL(asset.url);
+        const url = new url_1.URL(asset.browser_download_url);
         let result;
         try {
             result = js_yaml_1.load((await this.httpRequest(url, this.configureHeaders("application/octet-stream"), cancellationToken)));
@@ -84,7 +84,7 @@ class PrivateGitHubProvider extends GitHubProvider_1.BaseGitHubProvider {
                 throw builder_util_runtime_1.newError(`Cannot find asset "${name}" in: ${JSON.stringify(updateInfo.assets, null, 2)}`, "ERR_UPDATER_ASSET_NOT_FOUND");
             }
             return {
-                url: new url_1.URL(asset.url),
+                url: new url_1.URL(asset.browser_download_url),
                 info: it,
             };
         });

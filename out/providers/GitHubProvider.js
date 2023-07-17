@@ -22,7 +22,7 @@ class BaseGitHubProvider extends Provider_1.Provider {
     computeGithubBasePath(result) {
         // https://github.com/electron-userland/electron-builder/issues/1903#issuecomment-320881211
         const host = this.options.host;
-        return host && !["github.com", "api.github.com"].includes(host) ? `/api/v3${result}` : result;
+        return host && !["github.com", "api.github.com"].includes(host) ? `/api/v1${result}` : result;
     }
 }
 exports.BaseGitHubProvider = BaseGitHubProvider;

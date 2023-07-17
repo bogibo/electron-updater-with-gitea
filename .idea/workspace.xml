@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdc4068a-8242-493a-885f-6f9040930e46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/providers/GitHubProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/providers/GitHubProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/providers/PrivateGitHubProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/providers/PrivateGitHubProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SVxIUsfO4ayEmA0Y7687yd2XXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bogibo/Documents/electron-updater-with-gitea&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/bogibo/Documents/electron-updater-with-gitea/src/providers/GiteaProvider.ts&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdc4068a-8242-493a-885f-6f9040930e46" name="Changes" comment="" />
+      <created>1689245470064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689245470064</updated>
+      <workItem from="1689245471363" duration="2384000" />
+      <workItem from="1689248954762" duration="4804000" />
+      <workItem from="1689593605911" duration="701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/electronHttpExecutor.js" />
+        <option value="$PROJECT_DIR$/src/AppAdapter.js" />
+        <option value="$PROJECT_DIR$/src/AppImageUpdater.js" />
+        <option value="$PROJECT_DIR$/src/ElectronAppAdapter.js" />
+        <option value="$PROJECT_DIR$/src/BaseUpdater.js" />
+        <option value="$PROJECT_DIR$/src/util.js" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/DownloadedUpdateHelper.js" />
+        <option value="$PROJECT_DIR$/src/DebUpdater.js" />
+        <option value="$PROJECT_DIR$/src/AppUpdater.js" />
+        <option value="$PROJECT_DIR$/src/RpmUpdater.js" />
+        <option value="$PROJECT_DIR$/src/MacUpdater.js" />
+        <option value="$PROJECT_DIR$/src/windowsExecutableCodeSignatureVerifier.js" />
+        <option value="$PROJECT_DIR$/src/NsisUpdater.js" />
+        <option value="$PROJECT_DIR$/src/providerFactory.js" />
+        <option value="$PROJECT_DIR$/src/providers/PrivateGiteaProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/GenericProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/BitbucketProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/GiteaProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/KeygenProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/GitHubProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/PrivateGitHubProvider.js" />
+        <option value="$PROJECT_DIR$/src/providers/Provider.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/DifferentialDownloader.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/FileWithEmbeddedBlockMapDifferentialDownloader.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/DataSplitter.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/GenericDifferentialDownloader.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/multipleRangeDownloader.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/ProgressDifferentialDownloadCallbackTransform.js" />
+        <option value="$PROJECT_DIR$/src/differentialDownloader/downloadPlanBuilder.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
