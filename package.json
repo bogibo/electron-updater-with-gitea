@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-with-gitea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fork from electron-updater",
   "main": "out/main.js",
   "author": "bogibo",
